@@ -1,0 +1,25 @@
+body{
+	background: burlywood;
+
+}
+.img-logo1{
+
+}
+body{
+	 background: #fff;
+}
+.top{
+	padding-top: 0.5em;
+padding-top: 0;
+padding-top: 2cm;
+
+/* <percentage> value */
+padding-top: 10%;
+
+/* Global values */
+padding-top: inherit;
+padding-top: initial;
+padding-top: revert;
+padding-top: revert-layer;
+padding-top: unset;
+}
